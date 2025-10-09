@@ -54,7 +54,7 @@ The best score for each metric is marked in **bold**.
 The checkpoint and log will be saved at 'checkpoints'
 
 ## Test
-Please download weight:
+Please download weight: https://pan.baidu.com/s/1nhO0IDuAAux9hcE-GdjVIg?pwd=dwgv
 
 For WHU:
 ``` python evaluate_WHU.py ```
