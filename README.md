@@ -48,5 +48,19 @@ The best score for each metric is marked in **bold**.
 |Ours         |**1.313**  |**7.17**|
 
 ## Train
-Once the code is organized, we will release it.
+
+```python train_stereo.py --left_dir WHU-Stereo_dataset/with_GT/train/left --right_dir WHU-Stereo_dataset/with_GT/train/right --disp_dir WHU-Stereo_dataset/with_GT/train/disp```
+
+The checkpoint and log will be saved at 'checkpoints'
+
+## Test
+Please download weight:
+
+For WHU:
+``` python evaluate_WHU.py ```
+The results will be saved at "results/whu"
+
+For US3D:
+``` python evaluate_US3D.py ```
+The results will be saved at "results/us3d"
 
