@@ -2,9 +2,19 @@
 This is the official code for TGRNet.
 ## Requirements
 
-```python==3.8```
+```python```
 
-```einops==0.3.0```
+```einops```
+
+```torch```
+
+```numpy```
+
+```tqdm```
+
+```cv```
+
+```pandas```
 
 ## Visualization
 
