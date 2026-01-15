@@ -7,7 +7,7 @@ This is the official code for TGRNet (https://ieeexplore.ieee.org/abstract/docum
 ```torch```
 ```numpy```
 ```tqdm```
-```cv```
+```opencv-python```
 ```pandas```
 
 ## Visualization
