@@ -1,5 +1,5 @@
 # TGRNet
-This is the official code for TGRNet.
+This is the official code for TGRNet (https://ieeexplore.ieee.org/abstract/document/11244831).
 ## Requirements
 
 ```python```
