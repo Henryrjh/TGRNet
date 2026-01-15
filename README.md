@@ -68,3 +68,15 @@ For US3D:
 ``` python evaluate_US3D.py ```
 The results will be saved at "results/us3d"
 
+## END
+If you find our code useful, please consider adding the following citation:
+
+```@ARTICLE{11244831,
+  author={Rao, Jiahao and Liu, Rui and Chen, Jun and Tian, Xin},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={Texture-Guided Recurrent Network for Satellite Images Disparity Estimation}, 
+  year={2025},
+  volume={18},
+  number={},
+  pages={29399-29414},
+  doi={10.1109/JSTARS.2025.3632320}} ```
