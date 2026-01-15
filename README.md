@@ -68,7 +68,7 @@ For US3D:
 ``` python evaluate_US3D.py ```
 The results will be saved at "results/us3d"
 
-## END
+## Thank you！
 If you find our code useful, please consider adding the following citation:
 
 ```bibtex
