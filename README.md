@@ -71,7 +71,8 @@ The results will be saved at "results/us3d"
 ## END
 If you find our code useful, please consider adding the following citation:
 
-```@article{rao2025texture,
+```bibtex
+@article{rao2025texture,
   title={Texture-Guided Recurrent Network for Satellite Images Disparity Estimation},
   author={Rao, Jiahao and Liu, Rui and Chen, Jun and Tian, Xin},
   journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
