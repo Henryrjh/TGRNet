@@ -51,11 +51,6 @@ The best score for each metric is marked in **bold**.
 |DLNR         |  1.389    |  8.03 |
 |Ours         |**1.313**  |**7.17**|
 
-## Train
-
-```python train_stereo.py --left_dir WHU-Stereo_dataset/with_GT/train/left --right_dir WHU-Stereo_dataset/with_GT/train/right --disp_dir WHU-Stereo_dataset/with_GT/train/disp```
-
-The checkpoint and log will be saved at 'checkpoints'
 
 ## Test
 Please download weight: https://pan.baidu.com/s/1nhO0IDuAAux9hcE-GdjVIg?pwd=dwgv
