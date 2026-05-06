@@ -53,15 +53,7 @@ The best score for each metric is marked in **bold**.
 
 
 ## Test
-Please download weight: https://pan.baidu.com/s/1nhO0IDuAAux9hcE-GdjVIg?pwd=dwgv
-
-For WHU:
-``` python evaluate_WHU.py ```
-The results will be saved at "results/whu"
-
-For US3D:
-``` python evaluate_US3D.py ```
-The results will be saved at "results/us3d"
+The code is being organized.
 
 ## Thank you！
 If you find our code useful, please consider adding the following citation:
