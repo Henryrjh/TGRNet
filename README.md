@@ -67,13 +67,12 @@ The results will be saved at "results/us3d"
 If you find our code useful, please consider adding the following citation:
 
 ```bibtex
-@ARTICLE{11494089,
+@article{rao2025texture,
+  title={Texture-Guided Recurrent Network for Satellite Images Disparity Estimation},
   author={Rao, Jiahao and Liu, Rui and Chen, Jun and Tian, Xin},
-  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
-  title={Toward Reliable Disparity Estimation: Uncertainty-Aware Stereo Matching Framework for Satellite Images}, 
-  year={2026},
-  volume={64},
-  number={},
-  pages={1-17},
-  keywords={Satellite images;Earth Observing System;Feeds;Filtering;Filters;Pixel;Digital images;Electronic mail;LoRa;Communication systems;Disparity estimation;remote sensing;satellite images stereo matching (SISM);uncertainty learning},
-  doi={10.1109/TGRS.2026.3686969}}
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  volume={18},
+  pages={29399--29414},
+  year={2025},
+  publisher={IEEE}
+}
