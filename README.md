@@ -53,6 +53,9 @@ The best score for each metric is marked in **bold**.
 
 
 ## Test
+
+For WHU dataset:
+
 ```
 python evaluate_WHU.py \
     --mode 16bit \
@@ -63,6 +66,19 @@ python evaluate_WHU.py \
     --max_disp 64 \
     --min_disp -128 \
     --test_save_path results/whu
+```
+
+For US3D dataset:
+```
+python evaluate_US3D.py \
+    --mode 8bit \
+    --device cuda \
+    --test_left_dir dataset/US3D/test_all/left \
+    --test_right_dir dataset/US3D/test_all/right \
+    --test_disp_dir dataset/US3D/test_all/disp \
+    --max_disp 96 \
+    --min_disp -96 \
+    --test_save_path results/us3d
 ```
 
 ## Thank you！
