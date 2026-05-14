@@ -53,7 +53,16 @@ The best score for each metric is marked in **bold**.
 
 
 ## Test
-The code is being organized.
+```bash
+python evaluate_WHU.py \
+    --mode 16bit \
+    --device cuda \
+    --test_left_dir dataset/WHU-Stereo/with_GT/test_all/left \
+    --test_right_dir dataset/WHU-Stereo/test_all/right \
+    --test_disp_dir dataset/WHU-Stereo/test_all/disp \
+    --max_disp 64 \
+    --min_disp -128 \
+    --test_save_path results/whu
 
 ## Thank you！
 If you find our code useful, please consider adding the following citation:
