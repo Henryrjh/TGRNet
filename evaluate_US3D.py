@@ -208,7 +208,7 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     model = create_model()
-    weight_path = 'weights/new_rs_us3d.pth'
+    weight_path = 'TGRNet_weights/new_rs_us3d.pth'
     weight = torch.load(weight_path)['model']
     model.load_state_dict(weight, strict=True)
 
