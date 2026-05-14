@@ -53,7 +53,7 @@ The best score for each metric is marked in **bold**.
 
 
 ## Test
-```bash
+```
 python evaluate_WHU.py \
     --mode 16bit \
     --device cuda \
@@ -63,6 +63,7 @@ python evaluate_WHU.py \
     --max_disp 64 \
     --min_disp -128 \
     --test_save_path results/whu
+```
 
 ## Thank you！
 If you find our code useful, please consider adding the following citation:
