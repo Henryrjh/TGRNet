@@ -10,7 +10,7 @@ This is the official code for TGRNet (https://ieeexplore.ieee.org/abstract/docum
 ```opencv-python```
 ```pandas```
 ## Download weights
-Please download the pretrained weights from the following link, then extract the files and place them in the project root directory.
+Please download and extract the pretrained weights, rename “TGRNet_weights” to “weights”, and place it in the project root directory.
 
 [Download Link](https://pan.baidu.com/s/1b6zQa7CKK5KpW8hzY-B19Q?pwd=gy18)
 
